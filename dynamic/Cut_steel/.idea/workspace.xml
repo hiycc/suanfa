@@ -1,14 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Cut_steel" targetName="Cut_steel" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09883f0e-12dc-4596-b2b0-815f69f96eec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cut_steel.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cut_steel.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1cnqcF6iD0wy5MyNBgEJ6ruhnCb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -19,5 +51,60 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09883f0e-12dc-4596-b2b0-815f69f96eec" name="Default Changelist" comment="" />
+      <created>1591174782297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591174782297</updated>
+      <workItem from="1591174783658" duration="1067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="257" key="GridCell.Tab.0.bottom" timestamp="1591175785357">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1591175785357" />
+    <state width="1398" height="257" key="GridCell.Tab.0.center" timestamp="1591175785357">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1591175785357" />
+    <state width="1398" height="257" key="GridCell.Tab.0.left" timestamp="1591175785356">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1591175785356" />
+    <state width="1398" height="257" key="GridCell.Tab.0.right" timestamp="1591175785357">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1591175785357" />
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom" timestamp="1591175785258">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1591175785258" />
+    <state width="1398" height="257" key="GridCell.Tab.1.center" timestamp="1591175785257">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1591175785257" />
+    <state width="1398" height="257" key="GridCell.Tab.1.left" timestamp="1591175785257">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1591175785257" />
+    <state width="1398" height="257" key="GridCell.Tab.1.right" timestamp="1591175785258">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1591175785258" />
+    <state x="503" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591175972132">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="503" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826@0.23.1440.826" timestamp="1591175972132" />
   </component>
 </project>
